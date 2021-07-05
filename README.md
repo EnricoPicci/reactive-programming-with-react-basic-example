@@ -1,6 +1,6 @@
 # Reactive Programming with React and RxJs - a basic example
 
-This repo contains the code that is used to explain the key concepts described in the article [Reactive Programming with React and RxJs](https://medium.com/p/88d2789e408a/edit)
+This repo contains the code that is used to explain the key concepts described in the article [Reactive Programming with React and RxJs](https://betterprogramming.pub/reactive-programming-with-react-and-rxjs-88d2789e408a)
 
 ## Run the example in development mode
 
